@@ -53,6 +53,7 @@ export const Label = styled.span`
 
 export const Sort = styled.div`
   width: 12rem;
+  cursor: pointer;
   display: inline-block;
 `;
 

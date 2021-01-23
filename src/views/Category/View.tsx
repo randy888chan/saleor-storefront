@@ -96,7 +96,7 @@ export const View: React.FC<ViewProps> = ({ match }) => {
 
   const sortOptions = [
     {
-      label: "Clear...",
+      label: "Relevance",
       value: null,
     },
     {
